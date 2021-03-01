@@ -1,0 +1,8 @@
+(^|\.)googlevideo\.com$
+(^|\.)i\.google\.com$
+(^|\.)s\.yimg\.com$
+(^|\.)s\.ytimg\.com$
+(^|\.)youtube\.com$
+(^|\.)youtube\.l\.google\.com$
+(^|\.)ytimg\.com$
+(^|\.)ytimg\.l\.google\.com$
